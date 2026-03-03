@@ -18,7 +18,7 @@ A visualization tool for computing and analyzing Minimum Edit Distance using the
 ![Minimum Edit Distance Dynamic Programming Table](Jurafsky_Style_Dynamic_Programming/MINedit.png)
 ---
 
-## 2. Wordle RegEx Generator (Colab UI Tool)
+## 2. Wordle RegEx Generator
 
 An interactive Google Colab tool that generates a Regular Expression (RegEx) pattern based on how you played a specific instance of Wordle.  
 The tool helps narrow down valid candidate words using feedback from the official Wordle game:  
