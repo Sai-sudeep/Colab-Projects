@@ -1,7 +1,7 @@
 # Colab-Projects
 A sandbox of simple codes ranging from simple NLP tools and string algorithms to entirely unrelated experiments created out of curiosity.
 
-## Jurafsky Style Minimum Edit Distance Table Generator
+## 1. Jurafsky Style Minimum Edit Distance Table Generator
 
 A visualization tool for computing and analyzing Minimum Edit Distance using the dynamic programming approach commonly presented in Jurafsky & Martin's computational linguistics framework.
 
