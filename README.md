@@ -15,11 +15,23 @@ A visualization tool for computing and analyzing Minimum Edit Distance using the
 
 ---
 
-## 2. Wordle RegEx Generator
+## 2. Wordle RegEx Generator (Colab UI Tool)
 
 An interactive Google Colab tool that generates a Regular Expression (RegEx) pattern based on how you played a specific instance of Wordle.  
-The tool helps narrow down valid candidate words using feedback from the official Wordle game:
+The tool helps narrow down valid candidate words using feedback from the official Wordle game:  
 https://www.nytimes.com/games/wordle/index.html
+
+### Example Game Instance
+
+![Example - LINEN](LINEN.png)
+
+---
+
+### UI Preview
+
+![Wordle RegEx UI](UI.png)
+
+---
 
 ### How to Use
 
