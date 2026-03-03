@@ -15,8 +15,7 @@ A visualization tool for computing and analyzing Minimum Edit Distance using the
 
 ### UI Preview
 
-![Minimum Edit Distance Dynamic Programming Table](MINedit.png)
-
+![Minimum Edit Distance Dynamic Programming Table](Jurafsky_Style_Dynamic_Programming/MINedit.png)
 ---
 
 ## 2. Wordle RegEx Generator (Colab UI Tool)
@@ -27,13 +26,13 @@ https://www.nytimes.com/games/wordle/index.html
 
 ### Example Game Instance
 
-![Example - LINEN](LINEN.png)
+![Example - LINEN](Wordle/LINEN.png)
 
 ---
 
 ### UI Preview
 
-![Wordle RegEx UI](UI.png)
+![Wordle RegEx UI](Wordle/UI.png)
 
 ---
 
