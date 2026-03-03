@@ -13,6 +13,10 @@ A visualization tool for computing and analyzing Minimum Edit Distance using the
 4. Generate the table to visualize candidate computations.
 5. Inspect the optimal backtrace path and final edit distance.
 
+### UI Preview
+
+![Minimum Edit Distance Dynamic Programming Table](MINedit.png)
+
 ---
 
 ## 2. Wordle RegEx Generator (Colab UI Tool)
